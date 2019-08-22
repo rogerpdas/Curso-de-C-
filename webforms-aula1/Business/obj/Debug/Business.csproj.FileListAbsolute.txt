@@ -1,0 +1,6 @@
+C:\ghr\curso-csharp-basico\webforms-aula1\Business\bin\Debug\Business.dll
+C:\ghr\curso-csharp-basico\webforms-aula1\Business\bin\Debug\Business.pdb
+C:\ghr\curso-csharp-basico\webforms-aula1\Business\obj\Debug\Business.csprojAssemblyReference.cache
+C:\ghr\curso-csharp-basico\webforms-aula1\Business\obj\Debug\Business.csproj.CoreCompileInputs.cache
+C:\ghr\curso-csharp-basico\webforms-aula1\Business\obj\Debug\Business.dll
+C:\ghr\curso-csharp-basico\webforms-aula1\Business\obj\Debug\Business.pdb
